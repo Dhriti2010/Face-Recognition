@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(rgb(240, 115, 159),rgb(214, 86, 101));
+    border: 10px solid purple;
+    margin: 10px;
+    color: rgb(253, 253, 253);
+}
+.heading{
+    width: 100%;
+    font-size: 22px;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed rgb(12, 12, 12);
+}
